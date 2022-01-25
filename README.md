@@ -3,7 +3,7 @@
 
 I am an enthusiastic Dominican software developer who wants to achieve his goals and expand, I am a JavaScript developer but open to new things. learn and meet new limits.
 
-Skills: JavaScript / REACT / JS / HTML / MySQL
+Skills: JavaScript / React / JS / MySQL / Angular / React Native / Typescript
 
 - 🔭 I’m currently working on <A href="https://github.com/jacox02/Jobify.git">this project.<a/>
 - 🌱 I’m currently learning React JS, Node.js, Angularjs and ASP.NET technologies.
