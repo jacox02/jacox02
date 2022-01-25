@@ -7,7 +7,7 @@ Skills: JavaScript / React / JS / MySQL / Angular / React Native / Typescript
 
 - 🔭 I’m currently working on <A href="https://github.com/jacox02/Jobify.git">this project.<a/>
 - 🌱 I’m currently learning React JS, Node.js, Angularjs and ASP.NET technologies.
-- 📫 Reach me at jacobleandro@icloud.com
+- 📫 Reach me at jacobcuevas181@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jacox02) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-cuevas-7331351a0/)
 
